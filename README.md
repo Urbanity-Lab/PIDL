@@ -8,6 +8,6 @@ J. Huang, S. Agarwal, Physics Informed Deep Learning for Traffic State Estimatio
 Code is built upon Dr. Maziar Raissi's PINNs - https://github.com/maziarraissi/PINNs    
 Source of processed NGSIM data : Dr. Allan Avila - https://github.com/Allan-Avila/Highway-Traffic-Dynamics-KMD-Code     
 
-Data in this repo - 
+Data in this repo -     
 Synthetic.mat - case study I - simulated traffic state dataset    
 NGSIM_US80_4pm_Velocity_Data.txt - case study II - NGSIM Velocity Data
