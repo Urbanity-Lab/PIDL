@@ -1,7 +1,8 @@
 # PIDL
 Physics Informed Deep Learning - Traffic State Estimation
 
-Publication -     
+Publication -   
+    
 *J. Huang, S. Agarwal, Physics Informed Deep Learning for Traffic State Estimation: Illustrations with LWR and CTM Models, IEEE Open Journal of Intelligent Transportation Systems (OJITS)*    
 (link will be available)
 
