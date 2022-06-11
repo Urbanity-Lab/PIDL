@@ -14,8 +14,8 @@ Data in this repo -
 
 If you use our data/code please consider citing:: 
 
-  - J. Huang, S. Agarwal, Physics Informed Deep Learning for Traffic State Estimation: Illustrations with LWR and CTM Models, IEEE Open Journal of Intelligent Transportation Systems (OJITS)*    
-(link will be available)
+  - J. Huang, S. Agarwal, Physics Informed Deep Learning for Traffic State Estimation: Illustrations with LWR and CTM Models, IEEE Open Journal of Intelligent Transportation Systems (OJITS)       
+*(citation link will be available)
 
   - J. Huang and S. Agarwal, ["Physics Informed Deep Learning for Traffic State Estimation"](https://ieeexplore.ieee.org/document/9294236) 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC), Rhodes, Greece, 2020, pp. 1-6
 
